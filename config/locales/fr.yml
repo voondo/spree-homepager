@@ -1,0 +1,16 @@
+---
+  fr:
+    ext_homepager:
+      show_on_homepage: "Afficher en page d'accueil"
+    banners: Bannières
+    banner: Bannière
+    listing_banners: Liste des bannières
+    position: Position
+    tagline: Tagline
+    target_url: Url de destination
+    new_banner: Nouvelle bannière
+    editing_banner: Modification de la bannière
+    reorder: Changer l'ordre
+    reorder_explain: Faites glisser les bannières vers le haut ou le bas pour ajuster l'ordre dans lesquelles elles sont affichées
+    visible: Visible
+    drag: glisser
